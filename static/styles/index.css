@@ -23,7 +23,7 @@
 }
 
 body {
-    background-color: rgb(15, 15, 15);
+    background: linear-gradient(to right, #0b0036, #000000);
     color: white;
 }
 
